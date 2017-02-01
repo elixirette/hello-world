@@ -1,2 +1,3 @@
 # hello-world
-First repository!
+
+Babby coder Cassi. I like video games and crying to math rock.
